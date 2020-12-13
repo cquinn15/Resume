@@ -40,7 +40,7 @@ Phone | 206.491.9432
 
 ## Education:
 
-### Springboard
+### [Springboard](https://www.springboard.com/)
 
 
 - Certificate, UI/UX Design
@@ -49,7 +49,7 @@ Phone | 206.491.9432
 - 2020-Present
 
 
-## Cornell College
+### [Cornell College](https://www.cornellcollege.edu/)
 - Bachelor or Arts (B.A.,), Art History 
 - 2011-2015
 
