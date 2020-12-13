@@ -1,5 +1,14 @@
 # Catherine Quinn
 
+Contact Me: 
+-------------
+Email: | catherine.j.quinn@gmail.com
+-------------
+Phone: | 206.491.9432
+-------------
+LinkedIn: | https://www.linkedin.com/in/catherine-j-quinn/
+-------------
+
 ## About: 
 
 > I am currently a Product Owner of an end-to-end, proprietary software solution for Builders Capital, focusing on bridging the gap between technology and business needs. I’m passionate about building a product that is not only functional but enjoyable to use, and believe that thoughtful, well-designed software is key to meeting business requirements and winning loyal customers.
