@@ -1,15 +1,31 @@
 # Catherine Quinn
 
-About
+## About: 
 
 I am currently a product owner of an end-to-end, proprietary software solution for Builders Capital, focusing on bridging the gap between technology and business needs. I’m passionate about building a product that is not only functional but enjoyable to use, and believe that thoughtful, well-designed software is key to meeting business requirements and winning loyal customers.
 
-- Business Analyst at **Builders Capital** July 2018-Present
+## Experience:
 
- > Product Owner
-- User Testing
+Business Analyst at **Builders Capital** 
+Introduced User Testing
+Stakeholders and employees have commented on the improvement in our product usability, we have seen less frustration and confusion with new releases and employees who are brought in to help with User Testing feel a vested interest in our product. Initially seen as an unneeded step that would slow down the development process, it is now a piece that is requested by Stakeholders due to the demonstrated value it brings to our product. 
+Introduced Wireframing and Prototyping in Figma
+Historically, all requirements given to the Development Team were written without design requirements. All front-end features are now designed and prototyped in Figma, demoed to Stakeholders and Users prior to development work. This has improved the user flow and architecture of our product, as well as ensured that Stakeholder expectations are met with the delivered software. 
+Building Automated Testing 
+Building the test cases to be used for automated testing with Selenium. 
+Certified Scrum Product Owner
+Received certification in Scrum Product Ownership. Transitioned the team to using Azure Devops. Write Work Item Description and Acceptance Criteria, prioritize the backlog, facilitate Sprint Planning and Backlog Refinement meetings. 
+Associate Project Manager
+Wrote company handbooks, created and maintained Proforma models, managed company SharePoint,  and maintained the company website.
+Transaction Coordinator
+Marketed through social media, managed contact databases, presented to clients, designed marketing material, managed listing and sales contracts. 
 
-  - I introduced User Testing as part of our workflow this year. Stakeholders and employees have commented on the improvement in our product usabilty, we have seen less frustration and confusion with new releases and employees who are brought in to help with User Testing feel a vested interest in our Product. Initially seen as an unneeded step that would slow down the development process, it is now a piece that is requested by Stakeholders due to the value it brings to our product. 
-- Documenting Business Requirements
-- Quality Assurane Testing
-- Wireframes and mockups along with writing the requirements for new software features while managing the product backlog. Frequently, I act as the first line of defense for troubleshooting questions for both employees and customers and assist team members when needed in a live production environment.
+## Education:
+
+Springboard
+Certificate, UI/UX Design
+2020-Present
+Cornell COllege
+Bachelor or Arts (B.A.,), Art History 
+2011-2015
+
