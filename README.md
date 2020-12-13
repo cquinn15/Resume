@@ -1,8 +1,10 @@
 # Catherine Quinn
 
-Email: | catherine.j.quinn@gmail.com
-Phone: | 206.491.9432
-[LinkedIn] (https://www.linkedin.com/in/catherine-j-quinn/)
+Email | catherine.j.quinn@gmail.com
+
+Phone | 206.491.9432
+
+[LinkedIn](https://www.linkedin.com/in/catherine-j-quinn/)
 
 ## About: 
 
